@@ -3,4 +3,4 @@ An interactive console to operate a Books database with operations like Update, 
 
 
 # How to run the project
-Press the play button and operate with databe 
+Press the play button and operate with database
